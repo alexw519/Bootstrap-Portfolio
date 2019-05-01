@@ -1,0 +1,18 @@
+#selfImage
+{
+    width: 200px;
+    height: 200px;
+}
+
+.container
+{
+    width: 960px;
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+
+.navBar
+{
+    background-color: #ffffff;
+    border-bottom: 2px groove #777777;
+}
