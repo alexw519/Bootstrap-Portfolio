@@ -32,3 +32,17 @@ p
 {
     padding: 10px 0px;
 }
+
+.placeHolderImage
+{
+    height: 200px;
+    width: 100%;
+}
+
+.portfolioCaption
+{
+    position: relative;
+    top: -60px;
+    background-color: rebeccapurple;
+    text-align: center;
+}
