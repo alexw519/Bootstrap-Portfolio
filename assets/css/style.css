@@ -23,6 +23,12 @@ h2
 {
     background-color: #4aaaa5;
     color: #ffffff;
-    padding-top: 20px;
+    /* padding-top: 20px; */
     text-align: center;
+    height: 100%;
+}
+
+p
+{
+    padding: 10px 0px;
 }
